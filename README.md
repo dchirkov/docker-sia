@@ -2,15 +2,10 @@ Unofficial Docker image for Sia decentralized storage platform (with --authentic
 
 Initial repository: https://gitlab.com/NebulousLabs/Sia
 
-CHANGELOG:
+**CHANGELOG:**
 
-05.01.2020
+*05.01.2020*
 v1.4.2.0
 
-Sep 2019:
+*Sep 2019:*
 v1.4.1.2 (hotfix)
-
-Fix memory leak
-Add /tpool/transactions endpoint
-Second fix to transaction propagation bug
-
