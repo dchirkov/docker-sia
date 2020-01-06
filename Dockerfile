@@ -1,7 +1,6 @@
 FROM golang AS builder
 LABEL maintainer="Chirkov Dmitry <d@linux.technology>"
 
-
 ENV GOOS linux
 ENV GOARCH amd64
 ENV CGO_ENABLED 0
