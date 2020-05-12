@@ -4,6 +4,9 @@ Initial repository: https://gitlab.com/NebulousLabs/Sia
 
 **CHANGELOG:**
 
+*12.05.2020*
+v1.4.8
+
 *15.04.2020*
 v1.4.7
 
