@@ -18,6 +18,8 @@ ENV SIA_MODULES gctwhr
 
 RUN apk --no-cache add socat
 
+EXPOSE 9980 9981 9982 9983
+
 WORKDIR "$SIA_DIR"
 COPY --from=builder /go/bin/siad ./
 COPY --from=builder go/bin/siac ./
